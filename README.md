@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="850" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="900" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Eslam_Heshmat.Eslam_Heshmat" />
 
 <h1 align="center">
